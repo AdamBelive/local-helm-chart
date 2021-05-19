@@ -1,0 +1,6 @@
+name: "vespa-engine"
+
+replicasCount: 1
+
+image: "gcr.io/ai-canada-zqwm/vespa-engine"
+imageTag: "latest"
