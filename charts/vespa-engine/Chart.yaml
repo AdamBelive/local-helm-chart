@@ -2,4 +2,4 @@ apiVersion: v1
 appVersion: "1.0"
 description: "search engine for product-retrieval"
 name: vespa-engine
-version: 0.1.2
+version: 0.1.1
