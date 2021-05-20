@@ -3,11 +3,11 @@ entries:
   vespa-engine:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-19T16:37:04.815039-04:00"
+    created: "2021-05-20T08:33:27.377682-04:00"
     description: search engine for product-retrieval
-    digest: 3358f1131ed3f75d45bd535711e244252255c80d68d698d009f97c9dc278a930
+    digest: bc65fadd30cfc66c036b7c3c5adc637551d22717c34231c6afda08ffc6e4d4fb
     name: vespa-engine
     urls:
-    - vespa-engine-0.1.1.tgz
+    - https://github.com/AdamBelive/local-helm-chart.git/vespa-engine-0.1.1.tgz
     version: 0.1.1
-generated: "2021-05-19T16:37:04.814006-04:00"
+generated: "2021-05-20T08:33:27.377239-04:00"
