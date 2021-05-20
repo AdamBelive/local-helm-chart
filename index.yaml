@@ -8,6 +8,6 @@ entries:
     digest: bc65fadd30cfc66c036b7c3c5adc637551d22717c34231c6afda08ffc6e4d4fb
     name: vespa-engine
     urls:
-    - https://github.com/AdamBelive/local-helm-chart.git/vespa-engine-0.1.1.tgz
+    - https://adambelive.github.io/local-helm-chart//vespa-engine-0.1.1.tgz
     version: 0.1.1
 generated: "2021-05-20T08:33:27.377239-04:00"
